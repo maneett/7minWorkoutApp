@@ -9,9 +9,12 @@
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.2265" />
         <entry key="app/src/main/res/drawable/item_circular_color_accent_background.xml" value="0.1365" />
         <entry key="app/src/main/res/drawable/item_circular_color_border.xml" value="0.2265" />
+        <entry key="app/src/main/res/drawable/item_circular_gray_border.xml" value="0.1635" />
+        <entry key="app/src/main/res/drawable/item_circular_thin_accent_border.xml" value="0.2395" />
         <entry key="app/src/main/res/drawable/item_ripple_background.xml" value="0.1215" />
         <entry key="app/src/main/res/layout/activity_exercise.xml" value="0.23456268310546874" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.21655273437499997" />
+        <entry key="app/src/main/res/layout/item_exercise_status.xml" value="0.20042622884114583" />
       </map>
     </option>
   </component>
