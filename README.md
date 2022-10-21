@@ -4,7 +4,7 @@
 # 7-Minute-Workout-App
 This is a 7 minute workout android app that I created
 
-<img src="app/src/main/res/drawable/img_main_page.png" width="300" height="600">
+<img src="app/src/main/res/drawable-v24/img_main_page.png">
 
 The front page of the app-
 
